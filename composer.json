@@ -26,6 +26,7 @@
         "illuminate/support": "^6.0|^7.0|^8.0",
         "illuminate/view": "^6.0|^7.0|^8.0",
         "moneyphp/money": "^3.2",
+        "neftaliyagua/mercadolibre-php-sdk": "9999999-dev",
         "nesbot/carbon": "^2.0",
         "stripe/stripe-php": "^7.39",
         "symfony/http-kernel": "^4.3|^5.0",
