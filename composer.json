@@ -1,11 +1,11 @@
 {
-    "name": "laravel/cashier",
-    "description": "Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.",
+    "name": "laravel-latam/cashier-mercadopago",
+    "description": "Laravel Cashier provides an expressive, fluent interface to MercadoPago subscription billing services.",
     "keywords": ["laravel", "stripe", "billing"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/cashier/issues",
-        "source": "https://github.com/laravel/cashier"
+        "issues": "https://github.com/laravel-latam/cashier-mercadopago/issues",
+        "source": "https://github.com/laravel-latam/cashier-mercadopago"
     },
     "authors": [
         {
